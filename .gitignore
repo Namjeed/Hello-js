@@ -1,2 +1,7 @@
 node_modules/
 .env
+week3-crud-api/*
+!week3-crud-api/app.js
+!week3-crud-api/.gitignore
+!week3-crud-api/package.json
+!week3-crud-api/package-lock.json
